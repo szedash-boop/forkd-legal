@@ -1,0 +1,13 @@
+title: FORKD Legal
+description: Terms, Privacy Policy, and Community Guidelines for the FORKD app
+theme: jekyll-theme-cayman
+markdown: kramdown
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false
+include:
+  - terms.md
+  - privacy.md
+  - guidelines.md
