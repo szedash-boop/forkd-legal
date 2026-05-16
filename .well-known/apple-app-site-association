@@ -1,0 +1,20 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["V5T45TBTS8.app.forkd.ios"],
+        "components": [
+          {
+            "/": "/post/*",
+            "comment": "Direct post universal links — /post/<uuid>?kind=dish|recipe|list"
+          },
+          {
+            "/": "/s/*",
+            "comment": "Short-link redirects — /s/<key> resolved server-side via share-redirect edge function"
+          }
+        ]
+      }
+    ]
+  }
+}

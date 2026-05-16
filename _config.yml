@@ -11,3 +11,11 @@ include:
   - terms.md
   - privacy.md
   - guidelines.md
+  - .well-known
+  - .well-known/apple-app-site-association
+
+# Serve the AASA file without an extension and with the right MIME type so
+# iOS accepts it as a universal-link manifest. GitHub Pages includes the file
+# only if it is listed under `include:` (Jekyll otherwise ignores dotfiles
+# and dot-directories). MIME is auto-detected as application/json by GH Pages
+# when the file has no extension and contains valid JSON.
