@@ -1,20 +1,11 @@
 ---
 layout: default
-title: FORKD Legal
+title: Moved to CRAVE Legal
+redirect_to: https://szedash-boop.github.io/crave-legal/
 ---
 
-# FORKD Legal
+# This page has moved
 
-Food tastes better when shared.
+CRAVE legal documents are now hosted at **[crave-legal](https://szedash-boop.github.io/crave-legal/)**.
 
-These pages cover the legal documents for **FORKD**, a social food-review app for iOS.
-
-- [Terms of Service](./terms)
-- [Privacy Policy](./privacy)
-- [Community Guidelines](./guidelines)
-
-**Contact:** szedash@gmail.com
-
----
-
-*Last updated: 2026-05-07*
+You should be redirected automatically. If not, please [click here](https://szedash-boop.github.io/crave-legal/).

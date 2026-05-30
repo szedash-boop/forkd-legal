@@ -4,6 +4,7 @@ theme: jekyll-theme-cayman
 markdown: kramdown
 plugins:
   - jekyll-relative-links
+  - jekyll-redirect-from
 relative_links:
   enabled: true
   collections: false
